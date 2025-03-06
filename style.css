@@ -1,0 +1,89 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+body{
+    background-color:hsl(30, 54%, 90%);
+}
+.topic{
+    background-color: white;
+    width: 400px;
+    height: 975px;
+    font-size:10px;
+    border-radius: 15px;
+}
+img{
+    width: 350px;
+    height: 150px;
+    position: relative;
+    left: 25px;
+    top: 10px;
+    border-radius: 10px ;
+}
+h1{
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform:capitalize;
+}
+.introduction{
+    padding: 10px;
+    position: relative;
+    top: -10px;
+}
+.preparation{
+    background-color:hsl(330, 100%, 98%);
+    width: 350px;
+    position: relative;
+    left: 25px;
+    border-radius: 5px;   
+}
+.preparationtime{
+    color:hsl(332, 51%, 32%); 
+    font-size: 15px;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.preparation ul li{
+    padding: 5px;
+    text-transform: capitalize;
+}
+.ingredient,
+.instruction,
+.Nutrition{
+    font-size: 20px;
+    color: hsl(14, 45%, 36%);
+    font-weight: bolder;
+    margin: 10px;
+    text-transform: capitalize;
+}
+.recipe li{
+    padding: 4px;
+}
+ol li{
+    padding: 5px;
+}
+.nutritional{
+    margin: 10px;
+}
+.one,
+.two,
+.three,
+.four{
+    margin-left:  20px;
+}
+.five,
+.six,
+.seven,
+.eight{
+    position: relative;
+    top: -128px;
+    left: 185px;
+    margin-left: 20px;
+    font-size: 10px;
+    color:  hsl(14, 45%, 36%);
+    font-weight:bolder;
+    padding: 6px;
+}
