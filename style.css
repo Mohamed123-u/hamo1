@@ -27,6 +27,7 @@ h1{
     font-size: 30px;
     font-weight: bolder;
     text-transform:capitalize;
+    text-indent: 20px;
 }
 .introduction{
     padding: 10px;
