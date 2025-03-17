@@ -2,11 +2,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 250vh;
+  height: 100vh;
 }
 body{
     background-color:hsl(30, 54%, 90%);
-    height: 105vh;
+    height: 130vh;
 }
 .topic{
     background-color: white;
