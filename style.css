@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 160vh;
+  height: 250vh;
 }
 body{
     background-color:hsl(30, 54%, 90%);
